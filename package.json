@@ -43,7 +43,7 @@
 	},
 	"homepage": "https://github.com/automattic/crowdsignal-forms#readme",
 	"devDependencies": {
-		"@babel/runtime": "^7.21.0",
+		"@babel/runtime": "^7.26.10",
 		"@wordpress/scripts": "^26.11.0",
 		"clean-webpack-plugin": "^4.0.0",
 		"eslint-import-resolver-webpack": "^0.13.2",
