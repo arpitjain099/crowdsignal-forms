@@ -50,7 +50,7 @@
 		"extends": "link:@babel/runtime/helpers/extends",
 		"node-sass": "^7.0.3",
 		"prop-types": "^15.8.1",
-		"webpack": "^5.88.2"
+		"webpack": "^5.94.0"
 	},
 	"jest": {
 		"modulePaths": [
